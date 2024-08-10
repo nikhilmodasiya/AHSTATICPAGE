@@ -144,9 +144,17 @@ a:focus {
 }
 
 .navbar-brand span {
-  font-weight: bold;
+  font-weight: semi-bold;
   font-size: 24px;
   color: #ffffff;
+  margin-left: 80px;
+}
+
+.navbar-brand p {
+  font-weight: semi-bold;
+  font-size: 8px;
+  color: #ffffff;
+  margin-left: 120px;
 }
 
 .custom_nav-container {
@@ -279,14 +287,18 @@ a:focus {
 .slider_section .detail-box h1 {
   font-size: 3rem;
   font-weight: bold;
+  font-style: oblique;
   text-transform: uppercase;
-  margin-bottom: 15px;
+  margin-bottom: 25px;
   color: #ffffff;
 }
 
 .slider_section .detail-box p {
   color: #fefefe;
   font-size: 20px;
+  font-weight: lighter;
+  margin-bottom: 25px;
+
 }
 
 .slider_section .detail-box .btn-box {
@@ -964,5 +976,7 @@ a:focus {
   text-decoration: none;
   cursor: pointer;
 }
+
+
 
 /*# sourceMappingURL=style.css.map */
