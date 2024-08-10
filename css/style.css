@@ -143,12 +143,20 @@ a:focus {
   padding-left: 25px;
 }
 
-.navbar-brand span {
+.navbar-brand-span1 {
   font-weight: semi-bold;
   font-size: 24px;
   color: #ffffff;
-  margin-left: 80px;
+  margin-left: 60px;
 }
+
+.navbar-brand-span2 {
+  font-weight: semi-bold;
+  font-size: 24px;
+  color: #ffffff;
+  margin-left: 60px;
+}
+
 
 .navbar-brand p {
   font-weight: semi-bold;
